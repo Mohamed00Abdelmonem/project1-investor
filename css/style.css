@@ -52,18 +52,17 @@ body {
     font-weight: 500;
 } */
 
-.main h2 span {
+/* .main h2 span {
     display: inline-block;
     margin-top: 10px;
     margin-left: 50px;
     color: #20daab;
     font-size: 3em;
     font-weight: 600;
-    /* background-color: floralwhite; */
-    /* opacity: 0.4; */
+   
     
 }
-
+ */
 
 a {
      color: #1f1f1f;
@@ -243,7 +242,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/a9.jpg);
+    background-image: url(../images/a7.jpg);
     height: auto;
     background-size: 100%;
     
